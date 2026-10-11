@@ -1,0 +1,65 @@
+{
+  "IPV_Cochrane": {
+    "title": "Psychological therapies for women who experience intimate partner violence",
+    "url": "https://www.cochrane.org/evidence/CD013017_psychological-therapies-women-who-experience-intimate-partner-violence",
+    "design": "systematic review of 33 RCTs; 5517 participants",
+    "population": "IPV survivors",
+    "limitations": "therapist-delivered interventions; app adaptations not directly established"
+  },
+  "WHO_IPV": {
+    "title": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "url": "https://www.who.int/publications/i/item/WHO-RHR-14.26",
+    "design": "practice guidance",
+    "population": "IPV survivors",
+    "limitations": "clinical guidance, not trial of ANEIRA exercises"
+  },
+  "VA_PTSD": {
+    "title": "VA/DoD 2023 PTSD clinical practice guideline",
+    "url": "https://www.healthquality.va.gov/guidelines/MH/ptsd/",
+    "design": "evidence-based clinical guideline",
+    "population": "trauma-exposed patients",
+    "limitations": "clinician-delivered CPT, EMDR and PE must not be copied into unsupervised app"
+  },
+  "NICE_PTSD": {
+    "title": "NICE NG116 PTSD recommendations",
+    "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations",
+    "design": "clinical guideline",
+    "population": "trauma-exposed patients",
+    "limitations": "supported digital trauma-focused CBT has strict eligibility and professional support requirements"
+  },
+  "BREATH": {
+    "title": "Fincham et al. 2023 breathwork meta-analysis",
+    "url": "https://doi.org/10.1038/s41598-022-27247-y",
+    "design": "meta-analysis of RCTs",
+    "population": "general adults",
+    "limitations": "moderate risk of bias; not IPV-specific; no direct proof of HPA repair"
+  },
+  "BA": {
+    "title": "Uphoff et al. 2020 behavioral activation for depression",
+    "url": "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults",
+    "design": "Cochrane review, 53 trials",
+    "population": "adults with depression",
+    "limitations": "mostly low to moderate certainty, not ANEIRA-specific"
+  },
+  "CBTI": {
+    "title": "Edinger et al. 2021 AASM insomnia treatment guideline",
+    "url": "https://doi.org/10.5664/jcsm.8986",
+    "design": "GRADE-based guideline",
+    "population": "adults with insomnia",
+    "limitations": "full CBT-I is a clinician-guided multi-component treatment; sleep hygiene alone insufficient"
+  },
+  "WRITING": {
+    "title": "Expressive writing for adult trauma survivors: network meta-analysis",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9772920/",
+    "design": "systematic review/network meta-analysis, 44 RCTs",
+    "population": "adult trauma survivors",
+    "limitations": "trauma disclosure can increase distress; supportive journaling not equivalent to writing therapy"
+  },
+  "ITQ": {
+    "title": "International Trauma Questionnaire: VA assessment",
+    "url": "https://www.ptsd.va.gov/professional/assessment/adult-sr/itq.asp",
+    "design": "validated instrument guidance",
+    "population": "PTSD/CPTSD",
+    "limitations": "screening does not establish diagnosis"
+  }
+}

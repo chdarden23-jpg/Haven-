@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "COGNITIVE_01",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How often have reminders of past experiences interrupted your concentration?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_02",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How much have concentration difficulties interfered with what you want to do?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_03",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How often have you found it difficult to hold several pieces of information in mind?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_04",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How often do ordinary situations leave you watching for possible danger?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_05",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How confident do you currently feel making decisions without needing someone else to confirm them?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_06",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "How often do you experience mental exhaustion while completing routine tasks?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "COGNITIVE_07",
+    "domain": "cognitive",
+    "domain_title": "Understanding Attention and Memory",
+    "text": "What would you most like help with in this area?",
+    "type": "choice",
+    "options": [
+      "Concentration",
+      "Confidence in decisions",
+      "Managing reminders",
+      "Mental energy",
+      "Nothing right now"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_01",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How often does your body feel tense or on alert when you would prefer to relax?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_02",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How much do these body sensations interrupt your daily life?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_03",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How often do you notice a racing heart, unsettled stomach, or tense muscles during stress?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_04",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How often do you feel shut down, detached, or unusually numb during stress?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_05",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How often does it take longer than you would like to settle after something upsetting?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_06",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "How often does fatigue limit what you want to do?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "BODY_07",
+    "domain": "body",
+    "domain_title": "Understanding Body and Stress Responses",
+    "text": "Are there physical symptoms for which you would like help accessing healthcare?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_01",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often have upsetting reminders, images, or memories interrupted your day?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_02",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How much do emotional or trauma-related difficulties interfere with daily functioning?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_03",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often have you avoided ordinary situations because they bring back distressing memories?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_04",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often do you blame yourself for harm another person chose to cause?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_05",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often has it been difficult to understand or manage strong emotions?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_06",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often do you feel detached from yourself or your surroundings?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PSYCHOLOGICAL_07",
+    "domain": "psychological",
+    "domain_title": "Understanding Trauma and Emotional Responses",
+    "text": "How often have worry or low mood made ordinary tasks harder?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_01",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "How difficult does it feel to recognize what you want for yourself right now?",
+    "type": "difficulty",
+    "options": [
+      "Not difficult",
+      "A little difficult",
+      "Somewhat difficult",
+      "Very difficult",
+      "Extremely difficult"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_02",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "How much has reduced confidence affected your ability to pursue your goals?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_03",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "How confident do you feel setting a personal boundary, even when someone may disagree?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_04",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "How connected do you currently feel to your interests, values, and strengths?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_05",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "How often do you seek someone else’s approval before a decision you would prefer to make yourself?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "IDENTITY_06",
+    "domain": "identity",
+    "domain_title": "Rebuilding Confidence and Autonomy",
+    "text": "Which kind of independence would you like to strengthen first?",
+    "type": "choice",
+    "options": [
+      "Decisions",
+      "Boundaries",
+      "Interests and identity",
+      "Practical independence",
+      "Not sure yet"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "ATTACHMENT_01",
+    "domain": "attachment",
+    "domain_title": "Understanding Attachment and Separation",
+    "text": "How often does longing for a current or former partner disrupt activities you want to do?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "ATTACHMENT_02",
+    "domain": "attachment",
+    "domain_title": "Understanding Attachment and Separation",
+    "text": "How much does relationship-related grief interfere with your present life?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "ATTACHMENT_03",
+    "domain": "attachment",
+    "domain_title": "Understanding Attachment and Separation",
+    "text": "How often do conflicting feelings of love, fear, anger, or sadness leave you exhausted?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "ATTACHMENT_04",
+    "domain": "attachment",
+    "domain_title": "Understanding Attachment and Separation",
+    "text": "How often do you reconsider boundaries because you miss someone?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "ATTACHMENT_05",
+    "domain": "attachment",
+    "domain_title": "Understanding Attachment and Separation",
+    "text": "Which experience would you most like help understanding?",
+    "type": "choice",
+    "options": [
+      "Grief and loss",
+      "Mixed feelings",
+      "Trusting my decisions",
+      "Building a future",
+      "Not applicable"
+    ],
+    "required": false,
+    "timeframe": "past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SEXUAL_01",
+    "domain": "sexual",
+    "domain_title": "Reconnecting With Bodily and Sexual Autonomy",
+    "text": "Would you like the option to explore sexual or bodily autonomy as part of recovery?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SEXUAL_02",
+    "domain": "sexual",
+    "domain_title": "Reconnecting With Bodily and Sexual Autonomy",
+    "text": "How confident do you feel expressing or changing your boundaries about intimacy?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental",
+    "show_if": {
+      "question": "SEXUAL_01",
+      "values": [
+        "Yes"
+      ]
+    }
+  },
+  {
+    "id": "SEXUAL_03",
+    "domain": "sexual",
+    "domain_title": "Reconnecting With Bodily and Sexual Autonomy",
+    "text": "How much does anxiety about physical or sexual closeness affect the life you want?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental",
+    "show_if": {
+      "question": "SEXUAL_01",
+      "values": [
+        "Yes"
+      ]
+    }
+  },
+  {
+    "id": "SEXUAL_04",
+    "domain": "sexual",
+    "domain_title": "Reconnecting With Bodily and Sexual Autonomy",
+    "text": "Would you like help finding information about persistent sexual discomfort or reproductive healthcare?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental",
+    "show_if": {
+      "question": "SEXUAL_01",
+      "values": [
+        "Yes"
+      ]
+    }
+  },
+  {
+    "id": "SEXUAL_05",
+    "domain": "sexual",
+    "domain_title": "Reconnecting With Bodily and Sexual Autonomy",
+    "text": "Which topic, if any, would you like to explore?",
+    "type": "choice",
+    "options": [
+      "Consent and boundaries",
+      "Comfort with my body",
+      "Sexual self-concept",
+      "Healthcare information",
+      "None right now"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental",
+    "show_if": {
+      "question": "SEXUAL_01",
+      "values": [
+        "Yes"
+      ]
+    }
+  },
+  {
+    "id": "SPIRITUAL_01",
+    "domain": "spiritual",
+    "domain_title": "Reclaiming Meaning and Spiritual Independence",
+    "text": "Have another person’s actions interfered with your freedom to choose your spiritual, religious, or secular beliefs?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SPIRITUAL_02",
+    "domain": "spiritual",
+    "domain_title": "Reclaiming Meaning and Spiritual Independence",
+    "text": "How much does disruption in meaning, belief, or spiritual identity affect your life now?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SPIRITUAL_03",
+    "domain": "spiritual",
+    "domain_title": "Reclaiming Meaning and Spiritual Independence",
+    "text": "How connected do you currently feel to personally meaningful beliefs or values?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SPIRITUAL_04",
+    "domain": "spiritual",
+    "domain_title": "Reclaiming Meaning and Spiritual Independence",
+    "text": "How often do memories of spiritual or religious pressure cause distress?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SPIRITUAL_05",
+    "domain": "spiritual",
+    "domain_title": "Reclaiming Meaning and Spiritual Independence",
+    "text": "What would you like to explore, if anything?",
+    "type": "choice",
+    "options": [
+      "Freedom to choose beliefs",
+      "Meaning and values",
+      "Returning to chosen practices",
+      "Supportive community",
+      "No spiritual focus"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SOCIAL_01",
+    "domain": "social",
+    "domain_title": "Rebuilding Trust and Connection",
+    "text": "How often have difficulties trusting others affected relationships you value?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SOCIAL_02",
+    "domain": "social",
+    "domain_title": "Rebuilding Trust and Connection",
+    "text": "How much have social isolation or relationship difficulties affected daily functioning?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SOCIAL_03",
+    "domain": "social",
+    "domain_title": "Rebuilding Trust and Connection",
+    "text": "Do you have at least one person or service you can contact confidentially if you want support?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SOCIAL_04",
+    "domain": "social",
+    "domain_title": "Rebuilding Trust and Connection",
+    "text": "How confident do you feel expressing disagreement without giving up your boundaries?",
+    "type": "confidence",
+    "options": [
+      "Not at all confident",
+      "A little confident",
+      "Somewhat confident",
+      "Confident",
+      "Very confident"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "SOCIAL_05",
+    "domain": "social",
+    "domain_title": "Rebuilding Trust and Connection",
+    "text": "Which social goal matters most to you?",
+    "type": "choice",
+    "options": [
+      "Reconnect with people",
+      "Build confidence in conflict",
+      "Seek professional support",
+      "Improve boundaries",
+      "None currently"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "FUNCTION_01",
+    "domain": "function",
+    "domain_title": "Sleep, Health, Work, and Daily Living",
+    "text": "How often has poor sleep affected your ability to get through the day?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "FUNCTION_02",
+    "domain": "function",
+    "domain_title": "Sleep, Health, Work, and Daily Living",
+    "text": "How much do symptoms, pain, or fatigue interfere with everyday responsibilities?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "FUNCTION_03",
+    "domain": "function",
+    "domain_title": "Sleep, Health, Work, and Daily Living",
+    "text": "How often does pain make it harder to do things important to you?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "FUNCTION_04",
+    "domain": "function",
+    "domain_title": "Sleep, Health, Work, and Daily Living",
+    "text": "How often have current difficulties interrupted work, study, household routines, or caregiving?",
+    "type": "frequency",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Nearly every day"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "FUNCTION_05",
+    "domain": "function",
+    "domain_title": "Sleep, Health, Work, and Daily Living",
+    "text": "Which area would you most like help with?",
+    "type": "choice",
+    "options": [
+      "Sleep",
+      "Physical health",
+      "Daily routines",
+      "Work or study",
+      "More than one"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PRACTICAL_01",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "Is someone currently restricting your freedom, monitoring you, or interfering with your choices?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PRACTICAL_02",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "How much do practical difficulties, including housing or money, affect everyday life?",
+    "type": "impact",
+    "options": [
+      "Not at all",
+      "A little",
+      "Somewhat",
+      "Quite a lot",
+      "Extremely"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PRACTICAL_03",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "Are you concerned that someone may access this device, account, or what you write?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PRACTICAL_04",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "Would you like information about housing, financial, legal, or advocacy support?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "PRACTICAL_05",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "Are you experiencing unwanted contact, monitoring, or harassment from someone you have separated from?",
+    "type": "yesno",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental",
+    "independent_safety_indicator": true
+  },
+  {
+    "id": "PRACTICAL_06",
+    "domain": "practical",
+    "domain_title": "Current Circumstances and Practical Support",
+    "text": "Which kind of practical support would help most?",
+    "type": "choice",
+    "options": [
+      "Financial independence",
+      "Housing",
+      "Privacy and technology",
+      "Healthcare access",
+      "Support services",
+      "No practical support right now"
+    ],
+    "required": false,
+    "timeframe": "currently / past 2 weeks",
+    "stage": "deep",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_GOALS",
+    "domain": "preferences",
+    "domain_title": "Your recovery priorities",
+    "text": "Which topics are most important for you to work on now?",
+    "type": "multi",
+    "options": [
+      "Understanding my reactions",
+      "Body and sleep",
+      "Confidence and identity",
+      "Attachment and grief",
+      "Sexual autonomy",
+      "Meaning and spirituality",
+      "Trust and connection",
+      "Practical independence",
+      "Not sure yet"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_CAPACITY",
+    "domain": "preferences",
+    "domain_title": "Your recovery priorities",
+    "text": "How much energy do you have for reflection or activities right now?",
+    "type": "choice",
+    "options": [
+      "Very little",
+      "A little",
+      "Some",
+      "Plenty",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_STYLE",
+    "domain": "preferences",
+    "domain_title": "Your recovery priorities",
+    "text": "Which formats would you prefer to explore?",
+    "type": "multi",
+    "options": [
+      "Short explanations",
+      "Written reflection",
+      "Creative activities",
+      "Practical skill practice",
+      "Professional support information",
+      "Not sure"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_CURRENT_SUPPORT",
+    "domain": "support",
+    "domain_title": "Current support",
+    "text": "Would you like help finding confidential or urgent support today?",
+    "type": "choice",
+    "options": [
+      "Yes, urgent support",
+      "Yes, non-urgent support",
+      "Not today",
+      "Prefer not to say"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "initial",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_NECK",
+    "domain": "support",
+    "domain_title": "Immediate support",
+    "text": "Has someone recently put pressure on your neck or interfered with your breathing?",
+    "type": "choice",
+    "options": [
+      "Yes",
+      "No",
+      "Prefer not to say"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "optional_support",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_WEAPON",
+    "domain": "support",
+    "domain_title": "Immediate support",
+    "text": "Has someone recently threatened you with a weapon or threatened to seriously hurt you?",
+    "type": "choice",
+    "options": [
+      "Yes",
+      "No",
+      "Prefer not to say"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "optional_support",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_SEXUAL",
+    "domain": "support",
+    "domain_title": "Immediate support",
+    "text": "Are you seeking immediate support following unwanted sexual contact or coercion?",
+    "type": "choice",
+    "options": [
+      "Yes",
+      "No",
+      "Prefer not to say"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "optional_support",
+    "validation_status": "original_developmental"
+  },
+  {
+    "id": "META_DISTRESS",
+    "domain": "support",
+    "domain_title": "Immediate support",
+    "text": "Do you need immediate help to stay safe from harm right now?",
+    "type": "choice",
+    "options": [
+      "Yes",
+      "No",
+      "Prefer not to say"
+    ],
+    "required": false,
+    "timeframe": "right now",
+    "stage": "optional_support",
+    "validation_status": "original_developmental"
+  }
+]

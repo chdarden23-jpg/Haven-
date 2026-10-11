@@ -1,0 +1,120 @@
+{
+  "cognitive": {
+    "title": "Understanding Attention and Memory",
+    "initial_question_id": "COGNITIVE_01",
+    "deep_question_ids": [
+      "COGNITIVE_02",
+      "COGNITIVE_03",
+      "COGNITIVE_04",
+      "COGNITIVE_05",
+      "COGNITIVE_06",
+      "COGNITIVE_07"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "body": {
+    "title": "Understanding Body and Stress Responses",
+    "initial_question_id": "BODY_01",
+    "deep_question_ids": [
+      "BODY_02",
+      "BODY_03",
+      "BODY_04",
+      "BODY_05",
+      "BODY_06",
+      "BODY_07"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "psychological": {
+    "title": "Understanding Trauma and Emotional Responses",
+    "initial_question_id": "PSYCHOLOGICAL_01",
+    "deep_question_ids": [
+      "PSYCHOLOGICAL_02",
+      "PSYCHOLOGICAL_03",
+      "PSYCHOLOGICAL_04",
+      "PSYCHOLOGICAL_05",
+      "PSYCHOLOGICAL_06",
+      "PSYCHOLOGICAL_07"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "identity": {
+    "title": "Rebuilding Confidence and Autonomy",
+    "initial_question_id": "IDENTITY_01",
+    "deep_question_ids": [
+      "IDENTITY_02",
+      "IDENTITY_03",
+      "IDENTITY_04",
+      "IDENTITY_05",
+      "IDENTITY_06"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "attachment": {
+    "title": "Understanding Attachment and Separation",
+    "initial_question_id": "ATTACHMENT_01",
+    "deep_question_ids": [
+      "ATTACHMENT_02",
+      "ATTACHMENT_03",
+      "ATTACHMENT_04",
+      "ATTACHMENT_05"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "sexual": {
+    "title": "Reconnecting With Bodily and Sexual Autonomy",
+    "initial_question_id": "SEXUAL_01",
+    "deep_question_ids": [
+      "SEXUAL_02",
+      "SEXUAL_03",
+      "SEXUAL_04",
+      "SEXUAL_05"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "spiritual": {
+    "title": "Reclaiming Meaning and Spiritual Independence",
+    "initial_question_id": "SPIRITUAL_01",
+    "deep_question_ids": [
+      "SPIRITUAL_02",
+      "SPIRITUAL_03",
+      "SPIRITUAL_04",
+      "SPIRITUAL_05"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "social": {
+    "title": "Rebuilding Trust and Connection",
+    "initial_question_id": "SOCIAL_01",
+    "deep_question_ids": [
+      "SOCIAL_02",
+      "SOCIAL_03",
+      "SOCIAL_04",
+      "SOCIAL_05"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "function": {
+    "title": "Sleep, Health, Work, and Daily Living",
+    "initial_question_id": "FUNCTION_01",
+    "deep_question_ids": [
+      "FUNCTION_02",
+      "FUNCTION_03",
+      "FUNCTION_04",
+      "FUNCTION_05"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  },
+  "practical": {
+    "title": "Current Circumstances and Practical Support",
+    "initial_question_id": "PRACTICAL_01",
+    "deep_question_ids": [
+      "PRACTICAL_02",
+      "PRACTICAL_03",
+      "PRACTICAL_04",
+      "PRACTICAL_05",
+      "PRACTICAL_06"
+    ],
+    "summary": "self-reported experiences and needs, not a diagnosis"
+  }
+}

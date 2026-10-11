@@ -1,0 +1,662 @@
+[
+  {
+    "question_id": "COGNITIVE_01",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_02",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_03",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_04",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_05",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_06",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "COGNITIVE_07",
+    "domain": "cognitive",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_01",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_02",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_03",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_04",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_05",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_06",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "BODY_07",
+    "domain": "body",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_01",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_02",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_03",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_04",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_05",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_06",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PSYCHOLOGICAL_07",
+    "domain": "psychological",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_01",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_difficulty",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_02",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_03",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_04",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_05",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "IDENTITY_06",
+    "domain": "identity",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "ATTACHMENT_01",
+    "domain": "attachment",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "ATTACHMENT_02",
+    "domain": "attachment",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "ATTACHMENT_03",
+    "domain": "attachment",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "ATTACHMENT_04",
+    "domain": "attachment",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "ATTACHMENT_05",
+    "domain": "attachment",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SEXUAL_01",
+    "domain": "sexual",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SEXUAL_02",
+    "domain": "sexual",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SEXUAL_03",
+    "domain": "sexual",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SEXUAL_04",
+    "domain": "sexual",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SEXUAL_05",
+    "domain": "sexual",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SPIRITUAL_01",
+    "domain": "spiritual",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SPIRITUAL_02",
+    "domain": "spiritual",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SPIRITUAL_03",
+    "domain": "spiritual",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SPIRITUAL_04",
+    "domain": "spiritual",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SPIRITUAL_05",
+    "domain": "spiritual",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SOCIAL_01",
+    "domain": "social",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SOCIAL_02",
+    "domain": "social",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SOCIAL_03",
+    "domain": "social",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SOCIAL_04",
+    "domain": "social",
+    "status": "original_developmental",
+    "measurement": "self_report_confidence",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "SOCIAL_05",
+    "domain": "social",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "FUNCTION_01",
+    "domain": "function",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "FUNCTION_02",
+    "domain": "function",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "FUNCTION_03",
+    "domain": "function",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "FUNCTION_04",
+    "domain": "function",
+    "status": "original_developmental",
+    "measurement": "self_report_frequency",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "FUNCTION_05",
+    "domain": "function",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PRACTICAL_01",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  },
+  {
+    "question_id": "PRACTICAL_02",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_impact",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PRACTICAL_03",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PRACTICAL_04",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "PRACTICAL_05",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_yesno",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  },
+  {
+    "question_id": "PRACTICAL_06",
+    "domain": "practical",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "META_GOALS",
+    "domain": "preferences",
+    "status": "original_developmental",
+    "measurement": "self_report_multi",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "META_CAPACITY",
+    "domain": "preferences",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "META_STYLE",
+    "domain": "preferences",
+    "status": "original_developmental",
+    "measurement": "self_report_multi",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "META_CURRENT_SUPPORT",
+    "domain": "support",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "normal"
+  },
+  {
+    "question_id": "META_NECK",
+    "domain": "support",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  },
+  {
+    "question_id": "META_WEAPON",
+    "domain": "support",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  },
+  {
+    "question_id": "META_SEXUAL",
+    "domain": "support",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  },
+  {
+    "question_id": "META_DISTRESS",
+    "domain": "support",
+    "status": "original_developmental",
+    "measurement": "self_report_choice",
+    "instrument_score": false,
+    "source": "ASSESSMENT_RESEARCH_REPORT.md construct rationale",
+    "scoring": "descriptive_only; no diagnostic cutoffs",
+    "safety": "separate"
+  }
+]

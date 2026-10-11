@@ -1,0 +1,2938 @@
+[
+  {
+    "exercise_id": "AN-E001",
+    "title": "Find Five Neutral Details",
+    "domains": [
+      "hypervigilance"
+    ],
+    "targets": [
+      "hypervigilance"
+    ],
+    "neurobiological_systems": [
+      "amygdala/salience",
+      "attention"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Shifts attention toward concrete present sensory information without requiring a safety judgment",
+    "instructions": [
+      "Look around at your own pace.",
+      "Name five neutral shapes or colors.",
+      "Choose one detail to describe.",
+      "Notice whether you want to continue or finish."
+    ],
+    "suggested_duration_minutes": 5,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "sensory",
+      "steps": 4,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E002",
+    "title": "Then and Now Cards",
+    "domains": [
+      "hypervigilance"
+    ],
+    "targets": [
+      "hypervigilance"
+    ],
+    "neurobiological_systems": [
+      "amygdala/salience",
+      "attention"
+    ],
+    "therapeutic_foundation": "NICE NG116 PTSD recommendations",
+    "mechanism": "Practices contextual discrimination between reminders and current observable cues",
+    "instructions": [
+      "Select a reminder without describing the traumatic event.",
+      "Choose two observable facts about your present location.",
+      "Select one available choice in the present."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "NICE_PTSD"
+      ],
+      "score": 85,
+      "rating": "moderate indirect",
+      "design": "clinical guideline",
+      "population": "trauma-exposed patients",
+      "limitations": "supported digital trauma-focused CBT has strict eligibility and professional support requirements",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 3,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "cards",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E003",
+    "title": "Attention Anchor Switch",
+    "domains": [
+      "hypervigilance"
+    ],
+    "targets": [
+      "hypervigilance"
+    ],
+    "neurobiological_systems": [
+      "amygdala/salience",
+      "attention"
+    ],
+    "therapeutic_foundation": "Fincham et al. 2023 breathwork meta-analysis",
+    "mechanism": "Practices flexible attention shifting without forcing inward focus",
+    "instructions": [
+      "Pick an external sound.",
+      "Shift attention to a visible object.",
+      "Return to the sound or stop."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BREATH"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "meta-analysis of RCTs",
+      "population": "general adults",
+      "limitations": "moderate risk of bias; not IPV-specific; no direct proof of HPA repair",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 3,
+        "guideline_support": 3
+      }
+    },
+    "source_urls": [
+      "https://doi.org/10.1038/s41598-022-27247-y"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "attention",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E004",
+    "title": "Gentle Exhale Pacing",
+    "domains": [
+      "anxiety"
+    ],
+    "targets": [
+      "anxiety"
+    ],
+    "neurobiological_systems": [
+      "autonomic",
+      "HPA-related stress response"
+    ],
+    "therapeutic_foundation": "Fincham et al. 2023 breathwork meta-analysis",
+    "mechanism": "Optional slow breathing can reduce self-reported stress for some adults",
+    "instructions": [
+      "Choose a comfortable pace; do not hold your breath.",
+      "Follow three gentle inhale/exhale cues.",
+      "Stop if dizzy, uncomfortable or more anxious."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BREATH"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "meta-analysis of RCTs",
+      "population": "general adults",
+      "limitations": "moderate risk of bias; not IPV-specific; no direct proof of HPA repair",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 3,
+        "guideline_support": 3
+      }
+    },
+    "source_urls": [
+      "https://doi.org/10.1038/s41598-022-27247-y"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "breathing",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E005",
+    "title": "Tension Release by Choice",
+    "domains": [
+      "anxiety"
+    ],
+    "targets": [
+      "anxiety"
+    ],
+    "neurobiological_systems": [
+      "autonomic",
+      "HPA-related stress response"
+    ],
+    "therapeutic_foundation": "Edinger et al. 2021 AASM insomnia treatment guideline",
+    "mechanism": "Brief muscle relaxation may reduce subjective physical tension",
+    "instructions": [
+      "Choose hands or shoulders, avoiding painful areas.",
+      "Gently tense for two seconds or skip tension.",
+      "Release and notice comfort, then finish."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "CBTI"
+      ],
+      "score": 81,
+      "rating": "moderate indirect",
+      "design": "GRADE-based guideline",
+      "population": "adults with insomnia",
+      "limitations": "full CBT-I is a clinician-guided multi-component treatment; sleep hygiene alone insufficient",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://doi.org/10.5664/jcsm.8986"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "body",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E006",
+    "title": "Distress Choice Menu",
+    "domains": [
+      "anxiety"
+    ],
+    "targets": [
+      "anxiety"
+    ],
+    "neurobiological_systems": [
+      "autonomic",
+      "HPA-related stress response"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Supports choice and manageable response selection during distress",
+    "instructions": [
+      "Choose: orient, move, contact support or rest.",
+      "Select a small action.",
+      "Rate whether it helped, or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "choice",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E007",
+    "title": "One Meaningful Ten-Minute Action",
+    "domains": [
+      "depression"
+    ],
+    "targets": [
+      "depression"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Behavioral activation increases engagement with valued activities",
+    "instructions": [
+      "Choose one pleasant or meaningful task.",
+      "Make it small enough for today.",
+      "Schedule it or start now.",
+      "Record completion without judgment."
+    ],
+    "suggested_duration_minutes": 5,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 4,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E008",
+    "title": "Energy-Matched Activity Ladder",
+    "domains": [
+      "depression"
+    ],
+    "targets": [
+      "depression"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Graded activity planning lowers activation barriers",
+    "instructions": [
+      "Choose your energy level.",
+      "Pick a two-, five-, or ten-minute activity.",
+      "Save a realistic plan."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E009",
+    "title": "One Decision, Three Options",
+    "domains": [
+      "executive_function"
+    ],
+    "targets": [
+      "executive_function"
+    ],
+    "neurobiological_systems": [
+      "executive attention"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Structured problem solving externalizes choices and reduces cognitive load",
+    "instructions": [
+      "Name a low-stakes decision.",
+      "List three options.",
+      "Mark one benefit and one drawback each.",
+      "Choose or postpone."
+    ],
+    "suggested_duration_minutes": 5,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "decision",
+      "steps": 4,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E010",
+    "title": "Two-Minute Focus Sprint",
+    "domains": [
+      "executive_function"
+    ],
+    "targets": [
+      "executive_function"
+    ],
+    "neurobiological_systems": [
+      "executive attention"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Short scheduled actions can support task engagement; direct cognitive rehabilitation evidence is limited",
+    "instructions": [
+      "Choose one manageable task.",
+      "Set a two-minute timer.",
+      "Mark completed, paused or changed plan."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "timer",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E011",
+    "title": "Next Step Map",
+    "domains": [
+      "executive_function"
+    ],
+    "targets": [
+      "executive_function"
+    ],
+    "neurobiological_systems": [
+      "executive attention"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Task decomposition supports organization and behavioral follow-through",
+    "instructions": [
+      "Name one task.",
+      "Break it into three small steps.",
+      "Choose the first step only."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E012",
+    "title": "Flexible Plan B",
+    "domains": [
+      "executive_function"
+    ],
+    "targets": [
+      "executive_function"
+    ],
+    "neurobiological_systems": [
+      "executive attention"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Rehearses alternative action planning when original plans change",
+    "instructions": [
+      "Choose a small upcoming plan.",
+      "Identify one possible obstacle.",
+      "Create a compassionate backup plan."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "decision",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E013",
+    "title": "Present-Day Timeline",
+    "domains": [
+      "memory_orientation"
+    ],
+    "targets": [
+      "memory_orientation"
+    ],
+    "neurobiological_systems": [
+      "contextual memory"
+    ],
+    "therapeutic_foundation": "NICE NG116 PTSD recommendations",
+    "mechanism": "Uses non-traumatic contextual cues to distinguish current time and setting",
+    "instructions": [
+      "Select today’s date.",
+      "Identify where you are without storing a precise location.",
+      "Name one present-day resource."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "NICE_PTSD"
+      ],
+      "score": 85,
+      "rating": "moderate indirect",
+      "design": "clinical guideline",
+      "population": "trauma-exposed patients",
+      "limitations": "supported digital trauma-focused CBT has strict eligibility and professional support requirements",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 3,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "timeline",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E014",
+    "title": "Everyday Memory Sequence",
+    "domains": [
+      "memory_orientation"
+    ],
+    "targets": [
+      "memory_orientation"
+    ],
+    "neurobiological_systems": [
+      "contextual memory"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Organizes neutral daily events without trauma narrative exposure",
+    "instructions": [
+      "Pick three ordinary activities from today.",
+      "Place them in order.",
+      "Choose one detail you want to remember."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "sequence",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E015",
+    "title": "Eyes-Open Room Orientation",
+    "domains": [
+      "dissociation"
+    ],
+    "targets": [
+      "dissociation"
+    ],
+    "neurobiological_systems": [
+      "orientation",
+      "autonomic"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "External orientation supports reconnection with observable surroundings",
+    "instructions": [
+      "Keep your eyes open if comfortable.",
+      "Identify the nearest doorway or window.",
+      "Notice your feet or a supporting chair only if comfortable."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "sensory",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "numb",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E016",
+    "title": "Gentle Movement Choice",
+    "domains": [
+      "dissociation"
+    ],
+    "targets": [
+      "dissociation"
+    ],
+    "neurobiological_systems": [
+      "orientation",
+      "autonomic"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Small voluntary movements emphasize agency and present awareness",
+    "instructions": [
+      "Choose a hand stretch, standing adjustment or none.",
+      "Move only within comfort.",
+      "Name one sensation or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "movement",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "numb",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E017",
+    "title": "Name the Feeling, Choose the Need",
+    "domains": [
+      "emotional_regulation"
+    ],
+    "targets": [
+      "emotional_regulation"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Affect labeling and choice may help organize emotional experience",
+    "instructions": [
+      "Select one emotion word or “unsure”.",
+      "Choose an immediate need.",
+      "Select one response or leave it undecided."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "emotion",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E018",
+    "title": "Intensity Before and After",
+    "domains": [
+      "emotional_regulation"
+    ],
+    "targets": [
+      "emotional_regulation"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Self-monitoring supports noticing changes without promising symptom reduction",
+    "instructions": [
+      "Rate current intensity 0–10.",
+      "Choose a comfortable regulation activity.",
+      "Rate again or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "slider",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E019",
+    "title": "Whose Message Was This?",
+    "domains": [
+      "shame"
+    ],
+    "targets": [
+      "shame"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Psychological therapies for women who experience intimate partner violence",
+    "mechanism": "Supports examination of internalized negative beliefs without intensive trauma processing",
+    "instructions": [
+      "Write one critical statement in general terms.",
+      "Identify whether it reflects your values.",
+      "Write a fairer statement or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "IPV_Cochrane"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "systematic review of 33 RCTs; 5517 participants",
+      "population": "IPV survivors",
+      "limitations": "therapist-delivered interventions; app adaptations not directly established",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 3
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013017_psychological-therapies-women-who-experience-intimate-partner-violence"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "reflection",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E020",
+    "title": "Responsibility Boundaries",
+    "domains": [
+      "shame"
+    ],
+    "targets": [
+      "shame"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Distinguishes one’s choices from another person’s coercive behavior",
+    "instructions": [
+      "Choose a fictional example of controlling behavior.",
+      "Sort responsibilities into “mine” and “not mine”.",
+      "Write one personal boundary."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "sorting",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E021",
+    "title": "Values Compass",
+    "domains": [
+      "identity"
+    ],
+    "targets": [
+      "identity"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Clarifying valued directions can guide meaningful action",
+    "instructions": [
+      "Choose three values.",
+      "Describe one small action that reflects one value.",
+      "Save the action as a choice, not an obligation."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "values",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E022",
+    "title": "Interest Reconnection",
+    "domains": [
+      "identity"
+    ],
+    "targets": [
+      "identity"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Re-engagement with self-chosen interests supports behavioral activation and identity exploration",
+    "instructions": [
+      "Select something you once enjoyed or want to try.",
+      "Choose a tiny experiment.",
+      "Record whether you want to repeat it."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E023",
+    "title": "My Choice Practice",
+    "domains": [
+      "autonomy"
+    ],
+    "targets": [
+      "autonomy"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Repeated low-stakes choices can support perceived agency",
+    "instructions": [
+      "Pick between two equally acceptable activities.",
+      "Choose without giving a reason.",
+      "Notice whether you want to change your mind."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "choice",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E024",
+    "title": "Boundary Sentence Builder",
+    "domains": [
+      "autonomy"
+    ],
+    "targets": [
+      "autonomy"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Rehearses assertive communication without requiring real-world confrontation",
+    "instructions": [
+      "Choose a boundary topic.",
+      "Select a short “I will/I won’t” statement.",
+      "Edit wording and save privately."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "builder",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E025",
+    "title": "Longing and Needs",
+    "domains": [
+      "attachment"
+    ],
+    "targets": [
+      "attachment"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Expressive writing for adult trauma survivors: network meta-analysis",
+    "mechanism": "Separates emotional longing from practical needs without directing relationship decisions",
+    "instructions": [
+      "Name what you miss without identifying a person.",
+      "Choose the underlying need.",
+      "List one other way the need might be supported."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WRITING"
+      ],
+      "score": 63,
+      "rating": "preliminary/indirect",
+      "design": "systematic review/network meta-analysis, 44 RCTs",
+      "population": "adult trauma survivors",
+      "limitations": "trauma disclosure can increase distress; supportive journaling not equivalent to writing therapy",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 3,
+        "consistency": 3,
+        "guideline_support": 2
+      }
+    },
+    "source_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9772920/"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "reflection",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E026",
+    "title": "Contact Urge Delay Choice",
+    "domains": [
+      "attachment"
+    ],
+    "targets": [
+      "attachment"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Creates a voluntary pause to evaluate impulses and alternatives",
+    "instructions": [
+      "Choose whether to pause for five minutes.",
+      "Pick one alternative activity.",
+      "Afterward choose freely what to do next."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "timer",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E027",
+    "title": "The Many Losses Map",
+    "domains": [
+      "grief"
+    ],
+    "targets": [
+      "grief"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Expressive writing for adult trauma survivors: network meta-analysis",
+    "mechanism": "Recognizes distinct losses rather than treating grief as a single feeling",
+    "instructions": [
+      "Select losses such as routine, future hopes, home or trust.",
+      "Choose one that needs attention today.",
+      "Write one sentence or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WRITING"
+      ],
+      "score": 63,
+      "rating": "preliminary/indirect",
+      "design": "systematic review/network meta-analysis, 44 RCTs",
+      "population": "adult trauma survivors",
+      "limitations": "trauma disclosure can increase distress; supportive journaling not equivalent to writing therapy",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 3,
+        "consistency": 3,
+        "guideline_support": 2
+      }
+    },
+    "source_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9772920/"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "map",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E028",
+    "title": "Memory Without Re-Exposure",
+    "domains": [
+      "grief"
+    ],
+    "targets": [
+      "grief"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Expressive writing for adult trauma survivors: network meta-analysis",
+    "mechanism": "Supports present-focused reflection on ordinary memories without forced traumatic disclosure",
+    "instructions": [
+      "Choose a neutral or comforting memory.",
+      "Name one meaning it holds now.",
+      "Close with a present-day choice."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WRITING"
+      ],
+      "score": 63,
+      "rating": "preliminary/indirect",
+      "design": "systematic review/network meta-analysis, 44 RCTs",
+      "population": "adult trauma survivors",
+      "limitations": "trauma disclosure can increase distress; supportive journaling not equivalent to writing therapy",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 3,
+        "IPV_relevance": 3,
+        "consistency": 3,
+        "guideline_support": 2
+      }
+    },
+    "source_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9772920/"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "reflection",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E029",
+    "title": "Consent in Everyday Choices",
+    "domains": [
+      "sexual_autonomy"
+    ],
+    "targets": [
+      "sexual_autonomy"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Practices recognition of freely given, changeable consent using nonsexual scenarios",
+    "instructions": [
+      "Review a fictional everyday request.",
+      "Choose yes, no, not now or change my mind.",
+      "See an explanation that all choices are allowed."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "scenario",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E030",
+    "title": "Body Boundary Preferences",
+    "domains": [
+      "sexual_autonomy"
+    ],
+    "targets": [
+      "sexual_autonomy"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Supports personal preference mapping without body exposure or disclosure",
+    "instructions": [
+      "Choose personal-space preferences.",
+      "Mark what you want to keep private.",
+      "Save or discard the preferences."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "privacy",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E031",
+    "title": "Respectful Behavior Sort",
+    "domains": [
+      "relationships"
+    ],
+    "targets": [
+      "relationships"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Practices discrimination between respect, pressure and coercion",
+    "instructions": [
+      "Read three fictional interactions.",
+      "Classify respect, pressure or uncertain.",
+      "Review explanations and adjust answers."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "sorting",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E032",
+    "title": "Support Circle",
+    "domains": [
+      "relationships"
+    ],
+    "targets": [
+      "relationships"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Identifies potential support choices without requiring disclosure or contact",
+    "instructions": [
+      "Choose support categories, not names.",
+      "Select which feels most accessible.",
+      "Plan an optional low-stakes contact."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "map",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E033",
+    "title": "Small Connection Ladder",
+    "domains": [
+      "social_isolation"
+    ],
+    "targets": [
+      "social_isolation"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Graded social engagement supports behavioral activation",
+    "instructions": [
+      "Choose a low-pressure connection activity.",
+      "Scale it to current energy.",
+      "Schedule or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E034",
+    "title": "Competence Evidence File",
+    "domains": [
+      "occupational"
+    ],
+    "targets": [
+      "occupational"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Concrete accomplishment tracking may support self-efficacy",
+    "instructions": [
+      "Name one task you completed.",
+      "Identify the skill used.",
+      "Save a private evidence card."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "card",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E035",
+    "title": "Return-to-Task Plan",
+    "domains": [
+      "occupational"
+    ],
+    "targets": [
+      "occupational"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Graded activity planning supports work-related routine",
+    "instructions": [
+      "Choose one manageable work or household task.",
+      "Break it into three steps.",
+      "Choose a rest point."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E036",
+    "title": "Wind-Down Experiment",
+    "domains": [
+      "sleep"
+    ],
+    "targets": [
+      "sleep"
+    ],
+    "neurobiological_systems": [
+      "sleep/stress regulation"
+    ],
+    "therapeutic_foundation": "Edinger et al. 2021 AASM insomnia treatment guideline",
+    "mechanism": "Regular pre-sleep routines may support sleep; not a substitute for multicomponent CBT-I",
+    "instructions": [
+      "Choose one calming pre-bed action.",
+      "Select a realistic time.",
+      "Track whether it was comfortable."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "CBTI"
+      ],
+      "score": 81,
+      "rating": "moderate indirect",
+      "design": "GRADE-based guideline",
+      "population": "adults with insomnia",
+      "limitations": "full CBT-I is a clinician-guided multi-component treatment; sleep hygiene alone insufficient",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://doi.org/10.5664/jcsm.8986"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "hyper",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E037",
+    "title": "Sleep Pattern Snapshot",
+    "domains": [
+      "sleep"
+    ],
+    "targets": [
+      "sleep"
+    ],
+    "neurobiological_systems": [
+      "sleep/stress regulation"
+    ],
+    "therapeutic_foundation": "Edinger et al. 2021 AASM insomnia treatment guideline",
+    "mechanism": "A simple diary can help observe sleep patterns without diagnosing insomnia",
+    "instructions": [
+      "Record approximate sleep and wake times optionally.",
+      "Note perceived restfulness.",
+      "Review patterns without scoring medical outcomes."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "CBTI"
+      ],
+      "score": 81,
+      "rating": "moderate indirect",
+      "design": "GRADE-based guideline",
+      "population": "adults with insomnia",
+      "limitations": "full CBT-I is a clinician-guided multi-component treatment; sleep hygiene alone insufficient",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://doi.org/10.5664/jcsm.8986"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "diary",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": true,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E038",
+    "title": "Comfortable Movement Menu",
+    "domains": [
+      "pain"
+    ],
+    "targets": [
+      "pain"
+    ],
+    "neurobiological_systems": [
+      "stress-related somatic experience"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Optional gentle movement can support function; no claim of treating chronic pain",
+    "instructions": [
+      "Choose seated, standing, or no movement.",
+      "Try a brief comfortable movement.",
+      "Stop if painful."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "movement",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E039",
+    "title": "Rest and Activity Balance",
+    "domains": [
+      "pain"
+    ],
+    "targets": [
+      "pain"
+    ],
+    "neurobiological_systems": [
+      "stress-related somatic experience"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Pacing helps plan manageable activities and rest",
+    "instructions": [
+      "Choose one activity.",
+      "Choose a rest interval.",
+      "Record whether pacing helped."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E040",
+    "title": "Chosen Meaning Map",
+    "domains": [
+      "spiritual_identity"
+    ],
+    "targets": [
+      "spiritual_identity"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Survivor-directed meaning making supports values and agency; direct efficacy evidence is limited",
+    "instructions": [
+      "Choose values, traditions or none.",
+      "Identify one practice you freely choose.",
+      "Write one sacred or personal boundary."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "values",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E041",
+    "title": "Belief Autonomy",
+    "domains": [
+      "spiritual_identity"
+    ],
+    "targets": [
+      "spiritual_identity"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Clarifies spiritual consent and freedom from coercion",
+    "instructions": [
+      "Read a fictional example of spiritual pressure.",
+      "Choose which boundaries are respected.",
+      "Write an optional personal statement."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "scenario",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E042",
+    "title": "One Independent Action",
+    "domains": [
+      "independence"
+    ],
+    "targets": [
+      "independence"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "Uphoff et al. 2020 behavioral activation for depression",
+    "mechanism": "Small self-directed activities reinforce agency and routine",
+    "instructions": [
+      "Choose one practical action.",
+      "Make a three-step plan.",
+      "Record whether it happened or changed."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "BA"
+      ],
+      "score": 74,
+      "rating": "moderate indirect",
+      "design": "Cochrane review, 53 trials",
+      "population": "adults with depression",
+      "limitations": "mostly low to moderate certainty, not ANEIRA-specific",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 3,
+        "IPV_relevance": 2,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "planner",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E043",
+    "title": "Resource Choice Map",
+    "domains": [
+      "independence"
+    ],
+    "targets": [
+      "independence"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "WHO Health care for women subjected to IPV or sexual violence: clinical handbook",
+    "mechanism": "Organizes optional support resources without collecting identifiable safety details",
+    "instructions": [
+      "Choose a category such as housing, work or community support.",
+      "List one general next step.",
+      "Save only if you want."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "WHO_IPV"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "practice guidance",
+      "population": "IPV survivors",
+      "limitations": "clinical guidance, not trial of ANEIRA exercises",
+      "methodological_components": {
+        "study_design": 2,
+        "methodological_quality": 3,
+        "IPV_relevance": 5,
+        "consistency": 3,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.who.int/publications/i/item/WHO-RHR-14.26"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "map",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E044",
+    "title": "Self-Organization Check-In",
+    "domains": [
+      "complex_ptsd"
+    ],
+    "targets": [
+      "complex_ptsd"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "International Trauma Questionnaire: VA assessment",
+    "mechanism": "Encourages non-diagnostic awareness of emotion, self-concept and relationships",
+    "instructions": [
+      "Choose one domain to focus on.",
+      "Choose a related low-intensity skill.",
+      "Mark helpfulness or skip."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "ITQ"
+      ],
+      "score": 62,
+      "rating": "preliminary/indirect",
+      "design": "validated instrument guidance",
+      "population": "PTSD/CPTSD",
+      "limitations": "screening does not establish diagnosis",
+      "methodological_components": {
+        "study_design": 4,
+        "methodological_quality": 4,
+        "IPV_relevance": 3,
+        "consistency": 4,
+        "guideline_support": 4
+      }
+    },
+    "source_urls": [
+      "https://www.ptsd.va.gov/professional/assessment/adult-sr/itq.asp"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "choice",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  },
+  {
+    "exercise_id": "AN-E045",
+    "title": "Reminder Versus Current Context",
+    "domains": [
+      "ptsd"
+    ],
+    "targets": [
+      "ptsd"
+    ],
+    "neurobiological_systems": [
+      "psychological/behavioral function"
+    ],
+    "therapeutic_foundation": "NICE NG116 PTSD recommendations",
+    "mechanism": "Builds low-intensity orientation skills without trauma memory processing",
+    "instructions": [
+      "Choose a general reminder category.",
+      "Select two observable facts about now.",
+      "Choose whether to finish or do grounding."
+    ],
+    "suggested_duration_minutes": 3,
+    "frequency": "Optional; no validated ANEIRA-specific dose",
+    "expected_outcomes": "Potential improvements in user-reported coping, choice, engagement or comfort; not demonstrated for this specific exercise",
+    "evidence": {
+      "source_ids": [
+        "NICE_PTSD"
+      ],
+      "score": 85,
+      "rating": "moderate indirect",
+      "design": "clinical guideline",
+      "population": "trauma-exposed patients",
+      "limitations": "supported digital trauma-focused CBT has strict eligibility and professional support requirements",
+      "methodological_components": {
+        "study_design": 5,
+        "methodological_quality": 4,
+        "IPV_relevance": 3,
+        "consistency": 4,
+        "guideline_support": 5
+      }
+    },
+    "source_urls": [
+      "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+    ],
+    "delivery": "self-guided low-intensity skills; not a substitute for clinical treatment",
+    "clinician_involvement": "Refer to qualified care for severe impairment, worsening symptoms, intensive trauma-memory processing, or when survivor requests support",
+    "accessibility": "Keyboard and screen reader; text alternative to timer/audio; no forced eye closure or touch; adjustable pacing; skip/stop",
+    "outcomes": [
+      "completed",
+      "helpfulness_0_5_optional",
+      "distress_before_optional",
+      "distress_after_optional"
+    ],
+    "software": {
+      "screen_type": "cards",
+      "steps": 3,
+      "saved": [
+        "completion status",
+        "optional helpfulness",
+        "optional self-report"
+      ],
+      "optional_free_text": false,
+      "no_auto_sharing": true
+    },
+    "arousal_suitability": "both",
+    "contraindications": "May pause/stop at any time; avoid breathing if dizzy or uncomfortable; avoid physical actions causing pain; no forced memory disclosure"
+  }
+]

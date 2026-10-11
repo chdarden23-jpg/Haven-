@@ -1,0 +1,183 @@
+{
+  "authorized_packages": {
+    "homepage": "ANEIRA_V3_Phase2_Homepage_Education_Source(2).zip",
+    "studio": "ANEIRA_V3_Therapeutic_Recovery_Research_and_Software(2).zip",
+    "assessment": "ANEIRA_V3_Assessment_Interpretation_Integration(1).zip"
+  },
+  "retained_files": [
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/data/questions.json",
+      "destination": "data/questions.json",
+      "bytes": 33022,
+      "sha256": "be063c5c3a18571e4dff4cf50533fafa132d9b4d2a79b3b7e4df609cf9e00caf"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/data/domains.json",
+      "destination": "data/domains.json",
+      "bytes": 3247,
+      "sha256": "f1ba76d190ed6661f9f733e665bf675b660377beb66058831309f1a68f67d8f7"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/data/instrument_registry.json",
+      "destination": "data/instrument_registry.json",
+      "bytes": 12722,
+      "sha256": "3df466b3aea505ca92600fb1ab482f2c471a05d7b5dc2368d525dcc3e002a773"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/data/provenance_matrix.json",
+      "destination": "data/provenance_matrix.json",
+      "bytes": 21860,
+      "sha256": "01ba2c62228fa15515813d416e57280d87200232e39161542ed09e2c60280a09"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/data/question_library.csv",
+      "destination": "data/question_library.csv",
+      "bytes": 18480,
+      "sha256": "ed1a56765d347fc312294e545bd72c0d32be33f99c00913c4b73dffabd69edc2"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/aneira_assessment/engine.py",
+      "destination": "aneira_assessment/engine.py",
+      "bytes": 7797,
+      "sha256": "0041c54676c01dd199e3742b7844f2856e4ff976db97a22093fab4426b081cb5"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/aneira_assessment/interpretation.py",
+      "destination": "aneira_assessment/interpretation.py",
+      "bytes": 9829,
+      "sha256": "658c0979cee27723570b431683f246c3b4e9c337ac7dbf10776455a16badc5a7"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/aneira_assessment/instruments.py",
+      "destination": "aneira_assessment/instruments.py",
+      "bytes": 2455,
+      "sha256": "9d51d6dca7a8d6d14a7ee8162e4192894d112a0c2012ddbbcf39ac63d3b648f4"
+    },
+    {
+      "source_package": "assessment",
+      "source_member": "ANEIRA_V3_Interpretation_Engine/aneira_assessment/matching.py",
+      "destination": "aneira_assessment/matching.py",
+      "bytes": 1380,
+      "sha256": "3741f2aa5d1dcf82b26814ab027b83146ebf97497efcc2fedc8c32f84f10ef69"
+    },
+    {
+      "source_package": "studio",
+      "source_member": "ANEIRA_V3_Therapeutic_Research/exercise_master.json",
+      "destination": "data/exercise_master.json",
+      "bytes": 110796,
+      "sha256": "cd54494e767eed235cc9f2bfd01ad3f7f8b60d8435c9412d9dc7b665709d7a5b"
+    },
+    {
+      "source_package": "studio",
+      "source_member": "ANEIRA_V3_Therapeutic_Research/journaling_library.json",
+      "destination": "data/journaling_library.json",
+      "bytes": 39163,
+      "sha256": "74d4c79d0be89bbf7dfdde3b431319134ea644b9a0ebe4f5afdc39de13d26740"
+    },
+    {
+      "source_package": "studio",
+      "source_member": "ANEIRA_V3_Therapeutic_Research/sources.json",
+      "destination": "data/sources.json",
+      "bytes": 3145,
+      "sha256": "1a9d36abd109310849e2c8066c219200caba30988d417ab1e797dd4f4431a45c"
+    },
+    {
+      "source_package": "studio",
+      "source_member": "ANEIRA_V3_Therapeutic_Research/SCIENTIFIC_RESEARCH_REPORT.md",
+      "destination": "docs/SCIENTIFIC_RESEARCH_REPORT.md",
+      "bytes": 16549,
+      "sha256": "d633fb572c5309517f6666407a76cebb77bcd0a0ade179d0ee62f48de5f2de71"
+    },
+    {
+      "source_package": "studio",
+      "source_member": "ANEIRA_V3_Therapeutic_Research/recommender.py",
+      "destination": "studio/recommender.py",
+      "bytes": 3586,
+      "sha256": "24a4a4c86e8a8e76ddf42f1050b4eab294b256a7569a1be73d236e9c3151b2b3"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/chapters.json",
+      "destination": "data/chapters.json",
+      "bytes": 65794,
+      "sha256": "f738468b86ee20adb2bca74319dd8b218555dac5645224a5734bfe49512d992f"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/hero_landscape.webp",
+      "destination": "static/hero_landscape.webp",
+      "bytes": 41092,
+      "sha256": "81a486efec5498e01417b89ff3a4e73977f0c4630083d5a592ddd0a9b0eba16d"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/education.webp",
+      "destination": "static/education.webp",
+      "bytes": 10954,
+      "sha256": "ab0a77e0af15c7dd1c6a31335e4be34c3afb116f44f59c4073199089a3ea98dc"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/assessment.webp",
+      "destination": "static/assessment.webp",
+      "bytes": 10192,
+      "sha256": "d9a44c2997dcb4c299cfedaff409a831a6dd032cd702d0c506a09d35294ea4a0"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/recovery.webp",
+      "destination": "static/recovery.webp",
+      "bytes": 9956,
+      "sha256": "7c58794adad9dda1c0452903dbfa65ff35f5b1c1cf50fc5b9feaf562cff226de"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/dashboard.webp",
+      "destination": "static/dashboard.webp",
+      "bytes": 17288,
+      "sha256": "7dd46a459a1617a4172a5d23400f45182f32f8f526c85a62c16a1433db79a66b"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/approved_homepage_reference.png",
+      "destination": "static/approved_homepage_reference.png",
+      "bytes": 1921041,
+      "sha256": "2da0db8eac66d66056aa108f27c5ac7a01d1ba9c2e491ada73a2dc44fac27a96"
+    },
+    {
+      "source_package": "homepage",
+      "source_member": "aneira_v2/assets/ANEIRA_Complete_Scientific_Investigations.docx",
+      "destination": "docs/ANEIRA_Complete_Scientific_Investigations.docx",
+      "bytes": 57388,
+      "sha256": "3fc05c147a4a0f47f2a4a5fbbef634f8bea7226c2833e3d14feb3f5476a876d6"
+    },
+    {
+      "source_package": "user_approved_image",
+      "source_member": "approved_homepage_user.jpeg",
+      "destination": "static/approved_homepage_user.jpeg",
+      "bytes": 541828,
+      "sha256": "929e9d13183a81f5d832872e522f4151622e14440178a994283d00eb4bbaebf5"
+    }
+  ],
+  "excluded": {
+    "homepage": [
+      "all original application Python, HTML, source modules, V2 activities, V2 question databases, legacy scientific graph and V2-only documentation"
+    ],
+    "assessment": [
+      "integrations/existing_recovery_activities_v2.json",
+      "aneira_assessment/recommendation_integration.py",
+      "aneira_assessment/reporting.py",
+      "legacy example_server.py"
+    ],
+    "studio": []
+  },
+  "note": "Chapters were copied verbatim as the V3 educational library from the supplied homepage package; all executable homepage code and legacy activities in that package were excluded. No activity list of nine was copied."
+}

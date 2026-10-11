@@ -1,0 +1,945 @@
+[
+  {
+    "journal_id": "AN-J001",
+    "title": "The Decision I Trusted",
+    "domain": "judgment",
+    "purpose": "Support self-directed reflection about judgment.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What was one decision you made independently?",
+      "What information did you use?",
+      "Which part of your judgment deserves credit?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J002",
+    "title": "Evidence Over Doubt",
+    "domain": "judgment",
+    "purpose": "Support self-directed reflection about judgment.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What is one conclusion you reached from observable facts?",
+      "Which facts support it?",
+      "What remains unknown without needing an immediate answer?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J003",
+    "title": "A Self-Description That Belongs to Me",
+    "domain": "identity",
+    "purpose": "Support self-directed reflection about identity.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What three qualities feel genuinely yours?",
+      "Which quality showed up recently?",
+      "How might you express it tomorrow?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J004",
+    "title": "The Parts I Want Back",
+    "domain": "identity",
+    "purpose": "Support self-directed reflection about identity.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which interest or habit used to matter to you?",
+      "What made it meaningful?",
+      "What is a small way to reconnect?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J005",
+    "title": "My Quiet Competence",
+    "domain": "strength",
+    "purpose": "Support self-directed reflection about strength.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What difficult practical task have you managed?",
+      "What skill did it require?",
+      "Where else might that skill help?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J006",
+    "title": "A Skill Nobody Took",
+    "domain": "strength",
+    "purpose": "Support self-directed reflection about strength.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What is something you still know how to do?",
+      "How did you learn it?",
+      "What would practicing it look like now?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J007",
+    "title": "The Future I Imagined",
+    "domain": "grief",
+    "purpose": "Support self-directed reflection about grief.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What hoped-for future are you grieving?",
+      "Which need did it represent?",
+      "Can any part of that need have a different future?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J008",
+    "title": "Grief Has More Than One Name",
+    "domain": "grief",
+    "purpose": "Support self-directed reflection about grief.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Are you missing routine, companionship, a home, a dream, or something else?",
+      "Which loss needs acknowledgment today?",
+      "What might support you around that loss?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J009",
+    "title": "Longing Is Information",
+    "domain": "attachment",
+    "purpose": "Support self-directed reflection about attachment.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What does the longing seem to ask for?",
+      "Is it comfort, familiarity, repair, closeness, or another need?",
+      "What choice protects your autonomy today?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J010",
+    "title": "What Love Cannot Require",
+    "domain": "attachment",
+    "purpose": "Support self-directed reflection about attachment.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What does freely chosen care look like to you?",
+      "Which obligations would conflict with your boundaries?",
+      "What would mutuality mean?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J011",
+    "title": "The Rules I Did Not Choose",
+    "domain": "coercive_control",
+    "purpose": "Support self-directed reflection about coercive control.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What ordinary choices were once monitored or restricted?",
+      "Which choices belong to you now?",
+      "Which one would you like to practice?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J012",
+    "title": "Pressure Versus Preference",
+    "domain": "coercive_control",
+    "purpose": "Support self-directed reflection about coercive control.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What does a freely chosen yes look like?",
+      "What signals pressure rather than choice?",
+      "What helps you recognize your own preference?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J013",
+    "title": "A Boundary Without a Defense",
+    "domain": "boundaries",
+    "purpose": "Support self-directed reflection about boundaries.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What is one preference you are entitled to hold?",
+      "How would you express it in one sentence?",
+      "What response can you choose if it is challenged?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J014",
+    "title": "Privacy Is a Choice",
+    "domain": "boundaries",
+    "purpose": "Support self-directed reflection about boundaries.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which information would you rather keep private?",
+      "Who, if anyone, has earned access?",
+      "What would respectful privacy look like?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J015",
+    "title": "My Body, My Timing",
+    "domain": "sexual_autonomy",
+    "purpose": "Support self-directed reflection about sexual autonomy.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What does choice over pace mean to you?",
+      "Which everyday examples remind you that consent can change?",
+      "What supports a sense of bodily ownership?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J016",
+    "title": "No Explanation Required",
+    "domain": "sexual_autonomy",
+    "purpose": "Support self-directed reflection about sexual autonomy.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What is a nonsexual situation where you may say no?",
+      "What makes that answer sufficient?",
+      "How can you practice it in a low-stakes setting?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J017",
+    "title": "An Uncelebrated Win",
+    "domain": "confidence",
+    "purpose": "Support self-directed reflection about confidence.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What did you accomplish recently?",
+      "Which decision made it possible?",
+      "How would you acknowledge the effort?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J018",
+    "title": "I Can Revise My Plan",
+    "domain": "confidence",
+    "purpose": "Support self-directed reflection about confidence.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "When have you changed a plan successfully?",
+      "What did flexibility allow?",
+      "What small decision could use a backup option?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J019",
+    "title": "The Values That Stayed",
+    "domain": "values",
+    "purpose": "Support self-directed reflection about values.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which values remained important even under pressure?",
+      "How do they show up now?",
+      "What action could honor one?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J020",
+    "title": "My Definition of Respect",
+    "domain": "values",
+    "purpose": "Support self-directed reflection about values.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What does respect look like in observable behavior?",
+      "What does it not require?",
+      "How will you recognize it in ordinary interactions?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J021",
+    "title": "A Reminder Is Not a Timeline",
+    "domain": "reminders",
+    "purpose": "Support self-directed reflection about reminders.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What broad kind of reminder caught your attention?",
+      "What is observably different about today?",
+      "What present-day choice is available?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J022",
+    "title": "Three Facts About Now",
+    "domain": "reminders",
+    "purpose": "Support self-directed reflection about reminders.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What date or season is it?",
+      "Which neutral objects are nearby?",
+      "What is one choice you control in this moment?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J023",
+    "title": "What Is Sacred by Choice",
+    "domain": "spiritual_identity",
+    "purpose": "Support self-directed reflection about spiritual identity.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which beliefs or practices feel personally meaningful?",
+      "Which do not feel freely chosen?",
+      "What spiritual boundary belongs to you?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J024",
+    "title": "Permission to Reimagine Meaning",
+    "domain": "spiritual_identity",
+    "purpose": "Support self-directed reflection about spiritual identity.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What gives life meaning outside any imposed belief?",
+      "Which symbols or rituals feel supportive?",
+      "What might you choose to leave behind?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J025",
+    "title": "A Day I Directed",
+    "domain": "independence",
+    "purpose": "Support self-directed reflection about independence.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which small part of today did you direct?",
+      "What resources supported that choice?",
+      "What is one decision for tomorrow?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J026",
+    "title": "My Practical Next Step",
+    "domain": "independence",
+    "purpose": "Support self-directed reflection about independence.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What practical goal matters right now?",
+      "What is the smallest step?",
+      "What help would be optional rather than controlling?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J027",
+    "title": "Evidence of Progress",
+    "domain": "accomplishments",
+    "purpose": "Support self-directed reflection about accomplishments.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What is one action you took this week?",
+      "What effort did it involve?",
+      "What does it show about your capabilities?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J028",
+    "title": "A Different Kind of Milestone",
+    "domain": "accomplishments",
+    "purpose": "Support self-directed reflection about accomplishments.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What counts as progress besides feeling better?",
+      "What choice or boundary mattered?",
+      "How would you recognize more of it?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J029",
+    "title": "The Future Is Mine to Edit",
+    "domain": "future_goals",
+    "purpose": "Support self-directed reflection about future goals.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What would you like more of in six months?",
+      "Which part is within your influence?",
+      "What is one reversible first step?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J030",
+    "title": "Goals Without Punishment",
+    "domain": "future_goals",
+    "purpose": "Support self-directed reflection about future goals.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which goal feels genuinely chosen?",
+      "How could you make it smaller?",
+      "What would count as enough for today?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J031",
+    "title": "Curiosity Inventory",
+    "domain": "interests",
+    "purpose": "Support self-directed reflection about interests.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What topic sparks even a little curiosity?",
+      "What would you like to learn?",
+      "What is a low-pressure way to explore?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J032",
+    "title": "Pleasure Without Permission",
+    "domain": "interests",
+    "purpose": "Support self-directed reflection about interests.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which harmless activity would you choose just because you enjoy it?",
+      "What makes it enjoyable?",
+      "When might you try it?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J033",
+    "title": "Who Benefits From This Story?",
+    "domain": "shame",
+    "purpose": "Support self-directed reflection about shame.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What critical belief about yourself keeps appearing?",
+      "Where might it have come from?",
+      "What evidence challenges it?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J034",
+    "title": "Responsibility Has Edges",
+    "domain": "shame",
+    "purpose": "Support self-directed reflection about shame.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What was within your control?",
+      "What belonged to someone else’s choices?",
+      "What responsibility can you set down?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J035",
+    "title": "A Feeling and a Need",
+    "domain": "emotion",
+    "purpose": "Support self-directed reflection about emotion.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which emotion is easiest to name today?",
+      "What need might sit underneath it?",
+      "What small response is available?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J036",
+    "title": "Permission for Mixed Feelings",
+    "domain": "emotion",
+    "purpose": "Support self-directed reflection about emotion.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which two emotions coexist right now?",
+      "What might each be responding to?",
+      "Can both exist without forcing a decision?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J037",
+    "title": "Trust Through Behavior",
+    "domain": "relationships",
+    "purpose": "Support self-directed reflection about relationships.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What specific behaviors earn trust over time?",
+      "What behaviors weaken it?",
+      "What pace feels right for you?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J038",
+    "title": "Connection Without Obligation",
+    "domain": "relationships",
+    "purpose": "Support self-directed reflection about relationships.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What makes a connection feel reciprocal?",
+      "Which kinds of contact feel optional?",
+      "What boundary supports your pace?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J039",
+    "title": "The Work I Can Do",
+    "domain": "work",
+    "purpose": "Support self-directed reflection about work.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which practical skill are you proud of?",
+      "Where have you used it?",
+      "What manageable task could rebuild momentum?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J040",
+    "title": "A Rest Pattern I Can Notice",
+    "domain": "sleep",
+    "purpose": "Support self-directed reflection about sleep.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "What helped you settle on one recent night?",
+      "What made rest harder?",
+      "What experiment feels manageable without pressure?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  },
+  {
+    "journal_id": "AN-J041",
+    "title": "Comfort and Pacing",
+    "domain": "pain",
+    "purpose": "Support self-directed reflection about pain.",
+    "why": "Structured, optional reflection helps organize choices and values without requiring traumatic event disclosure. It is not a stand-alone trauma treatment.",
+    "prompts": [
+      "Which activities drain your energy most?",
+      "What kind of rest helps?",
+      "What gentle adjustment would respect your body?"
+    ],
+    "follow_up": [
+      "What would you like to carry forward from this reflection?",
+      "Would you prefer to save, delete or leave it unfinished?"
+    ],
+    "presentation": "one prompt per screen; private draft; skip, pause, export and delete",
+    "research_basis": [
+      "WRITING",
+      "WHO_IPV"
+    ],
+    "trauma_disclosure_required": false,
+    "save_policy": "local/private by default; explicit consent before any cloud sync"
+  }
+]
